@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Gabriela Ventura!
 
-### 📫 Você pode falar comigo pelo emai: mgabiv18@hotmail.com pelo Linkedin ou pelo direct do Instagram
+### 📫 Você pode falar comigo pelo emai: mgabiv18@hotmail.com ou pelo Linkedin 
 <br>
 <div align="center">
   <a href="https://github.com/GabrielaVentur">
