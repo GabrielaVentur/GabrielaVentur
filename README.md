@@ -2,11 +2,7 @@
 
 ### 📫 Você pode falar comigo pelo email: mgabiv18@hotmail.com ou pelo Linkedin 
 <br>
-<div align="center">
-  <a href="https://github.com/GabrielaVentur">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielaVentur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,be26e3,2a72c2,00d4ff,da25df&title_color=ffffff&text_color=ffffff&icon_color=2a72c2&hide_border=false&locale=pt-br&include_all_commits=true&border_color=2a72c2"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaVentur&layout=compact&langs_count=7&theme=tokyonight&bg_color=DEG,be26e3,2a72c2,00d4ff,7d45ec&title_color=ffffff&text_color=ffffff&hide_border=false&locale=pt-br&custom_title=Linguagens&color=ffffff&border_color=2a72c2"/>
-</div>
+
 
 
 <div style="display: inline_block"><br>
